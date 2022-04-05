@@ -1,0 +1,67 @@
+import * as React from 'react';
+
+const useSomeHook = () => {};
+
+const SomeName = () => {
+	const filler = FILLER ?? FILLER ?? FILLER;
+	const filler = FILLER ?? FILLER ?? FILLER;
+	const filler = FILLER ?? FILLER ?? FILLER;
+	const filler = FILLER ?? FILLER ?? FILLER;
+	const filler = FILLER ?? FILLER ?? FILLER;
+	const filler = FILLER ?? FILLER ?? FILLER;
+	const filler = FILLER ?? FILLER ?? FILLER;
+	const filler = FILLER ?? FILLER ?? FILLER;
+
+	useSomeHook();
+
+	if (anyConditionCanEvenBeFalse) {
+		return null;
+	}
+
+	return (
+		<React.Fragment>
+			{FILLER ? FILLER : FILLER}
+			{FILLER ? FILLER : FILLER}
+			{FILLER ? FILLER : FILLER}
+			{FILLER ? FILLER : FILLER}
+			{FILLER ? FILLER : FILLER}
+			{FILLER ? FILLER : FILLER}
+			{FILLER ? FILLER : FILLER}
+			{FILLER ? FILLER : FILLER}
+			{FILLER ? FILLER : FILLER}
+			{FILLER ? FILLER : FILLER}
+			{FILLER ? FILLER : FILLER}
+			{FILLER ? FILLER : FILLER}
+			{FILLER ? FILLER : FILLER}
+			{FILLER ? FILLER : FILLER}
+			{FILLER ? FILLER : FILLER}
+			{FILLER ? FILLER : FILLER}
+			{FILLER ? FILLER : FILLER}
+			{FILLER ? FILLER : FILLER}
+			{FILLER ? FILLER : FILLER}
+			{FILLER ? FILLER : FILLER}
+			{FILLER ? FILLER : FILLER}
+			{FILLER ? FILLER : FILLER}
+			{FILLER ? FILLER : FILLER}
+			{FILLER ? FILLER : FILLER}
+			{FILLER ? FILLER : FILLER}
+			{FILLER ? FILLER : FILLER}
+			{FILLER ? FILLER : FILLER}
+			{FILLER ? FILLER : FILLER}
+			{FILLER ? FILLER : FILLER}
+			{FILLER ? FILLER : FILLER}
+			{FILLER ? FILLER : FILLER}
+			{FILLER ? FILLER : FILLER}
+			{FILLER ? FILLER : FILLER}
+			{FILLER ? FILLER : FILLER}
+			{FILLER ? FILLER : FILLER}
+			{FILLER ? FILLER : FILLER}
+			{FILLER ? FILLER : FILLER}
+			{FILLER ? FILLER : FILLER}
+			{FILLER ? FILLER : FILLER}
+			{FILLER ? FILLER : FILLER}
+			{FILLER ? FILLER : FILLER}
+			{FILLER ? FILLER : FILLER}
+		</React.Fragment>
+	);
+};
